@@ -1,0 +1,18 @@
+{
+  "name": "jumps",
+  "version": "1.0.0",
+  "description": "",
+  "main": "calculateDistancePoints.js",
+  "scripts": {
+    "test-distance": "mocha calculateDistancePoints.test.js",
+    "test-style": "mocha calculateStylePoints.test.js",
+    "test-total": "mocha calculateTotalPoints.test.js"
+
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "mocha": "^6.0.2"
+  }
+}
